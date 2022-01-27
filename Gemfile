@@ -19,4 +19,4 @@ gem 'sqlite3'
 
 gem 'simplecov', require: false, group: :test
 
-gem 'sidekiq', '5.2.7'
+gem 'sidekiq', '6.4.0'
